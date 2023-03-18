@@ -1,0 +1,135 @@
+.btn-red {
+  color: #fff;
+  background-color: red;
+  border: none;
+}
+
+.btn-gray {
+  color: #fff;
+  background-color: rgb(139, 139, 139);
+  border: none;
+}
+
+hr {
+    margin-top: 10px;
+}
+
+.invoice-section {
+  padding: 10px 30px;
+  background-color: #f3eded;
+  width: 40%;
+  height: 77vh;
+}
+
+.invoice-section .invoice-area {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 15px;
+}
+
+.left-area .order-category {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+}
+
+.left-area .order-category button {
+  width: 50px;
+  height: 50px;
+}
+
+.left-area .order-category button:first-child {
+  border: 2px #ff0808 solid;
+  color: #ff0808;
+}
+
+.cart {
+  width: 399px;
+  height: 322px;
+  background-color: #fff;
+}
+.cart-btn {
+  width: 133px;
+  height: 41px;
+  color: #fff;
+  background-color: rgb(139, 139, 139);
+}
+.cart-btne {
+  width: 133px;
+  height: 41px;
+  color: #fff;
+  background-color: red;
+}
+
+.table {
+  width: 100%;
+}
+.table thead {
+  margin-bottom: 1px solid black;
+}
+.table td {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+.cart-data .right-section .datas {
+  width: 17rem;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.cart-data .right-section .datas p {
+  margin-right: 3rem;
+}
+.cart-data .right-section .datas input {
+  width: 7rem;
+  text-align: right;
+}
+
+.cart-data {
+  display: flex;
+  gap: 40px;
+}
+
+.cart-data .left-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.cart-data .left-section .datas {
+  width: 12rem;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.total-sum {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  margin-bottom: 15px;
+}
+
+.total-sum span {
+  font-size: 27px;
+  font-weight: bold;
+}
+
+.function-area {
+  display: grid;
+  row-gap: 10px;
+  grid-template-columns: repeat(4, 1fr);
+  justify-items: end;
+}
+
+.function-area button {
+  width: 130px;
+  height: 35px;
+  border-radius: 5px;
+}
