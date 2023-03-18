@@ -15,7 +15,7 @@ const Menus = () => {
           <button className='btn-red'>Cold Beverages</button>
           <button className='btn-red'>Beer</button>
           <button className='btn-red'>Dessert</button>
-          <button className='btn-gray'>More</button>
+          <button className='list-btn'>More</button>
 
     
         </div>
@@ -32,51 +32,51 @@ const Menus = () => {
             <div className="starter-items">
                <button className='starter-btn'>Beef Belton tant
                  <br />
-                 <span>200</span></button>
+                 <span>₹200</span></button>
 
                  <button className='starter-btn'>Beef Belton tant
                  <br />
-                 <span>200</span></button>
+                 <span>₹200</span></button>
 
                  <button className='starter-btn'>Beef Belton tant
                  <br />
-                 <span>200</span></button>
+                 <span>₹200</span></button>
 
              
 
                  <button className='starter-btn'>Beef Belton tant
                  <br />
-                 <span>200</span></button>
+                 <span>₹200</span></button>
 
                  <button className='starter-btn'>Beef Belton tant
                  <br />
-                 <span>200</span></button>
+                 <span>₹200</span></button>
 
                  <button className='starter-btn'>Beef Belton tant
                  <br />
-                 <span>200</span></button>
+                 <span>₹200</span></button>
 
              
 
                  <button className='starter-btn'>Beef Belton tant
                  <br />
-                 <span>200</span></button>
+                 <span>₹200</span></button>
 
                  <button className='starter-btn'>Beef Belton tant
                  <br />
-                 <span>200</span></button>
+                 <span>₹200</span></button>
 
                  <button className='starter-btn'>Beef Belton tant
                  <br />
-                 <span>200</span></button>
+                 <span>₹200</span></button>
            
                  <button className='starter-btn'>Beef Belton tant
                  <br />
-                 <span>200</span></button>
+                 <span>₹200</span></button>
 
                  <button className='starter-btn'>Beef Belton tant
                  <br />
-                 <span>200</span></button>
+                 <span>₹200</span></button>
 
          
                   
